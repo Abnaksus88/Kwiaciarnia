@@ -1,2 +1,1 @@
-# E14-2023
-E14 2023
+Pierwszy projekt szkolny oraz dodatkowo egzamin
